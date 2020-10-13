@@ -16,7 +16,6 @@ import config.db as db
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
-
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/3.1/howto/deployment/checklist/
 
@@ -27,7 +26,6 @@ SECRET_KEY = 'j&c@s68t-2f3ka8g*-oj35s5g0-$v*ri60+r&$u!8pz=&v*j31'
 DEBUG = True
 
 ALLOWED_HOSTS = []
-
 
 # Application definition
 
